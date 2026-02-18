@@ -8,10 +8,6 @@
 
 Use this repo to share and keep track of Summer 2026 tech internships across software engineering, data science, quant, product management, and more. The list is automatically updated and maintained hourly by Blinky.
 
-<p>
-  <img src=".github/assets/stats.svg" alt="Internship Stats"/>
-</p>
-
 ## All Internships
 
 <table>
@@ -12028,7 +12024,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Testbed Infrastructure Intern 2026 (Summer 2026)</td>
 <td>San Francisco Bay Area</td>
 <td><a href="https://job-boards.greenhouse.io/astranis/jobs/4643730006?gh_src=602966e76us">Apply</a></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong>S&P Global</strong></td>
