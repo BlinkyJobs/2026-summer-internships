@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="28" role="img" aria-label="Jobs: 5050">
-  <title>Jobs: 5050</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="28" role="img" aria-label="Jobs: 5094">
+  <title>Jobs: 5094</title>
   <defs>
     <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#555;stop-opacity:1"/>
@@ -14,7 +14,7 @@
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11">
     <text x="46" y="18" fill="#fff">🔍 jobs</text>
     <text x="144" y="18" fill="#fff" font-weight="bold">
-      5,050
+      5,094
       <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze"/>
     </text>
   </g>
