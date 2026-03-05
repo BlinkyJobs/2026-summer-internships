@@ -33,14 +33,14 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Software Engineer Intern - Payments Summer 2026</td>
 <td>Chicago, IL</td>
 <td><a href="https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Software-Engineer-Intern---Payments-Summer-2026_0014504?source=LinkedIn">Apply</a></td>
-<td>0h</td>
+<td>1h</td>
 </tr>
 <tr>
 <td><strong>Todd</strong></td>
 <td>Backend Software Developer Intern (Summer '26)</td>
 <td>Los Angeles, CA</td>
 <td><a href="https://www.linkedin.com/jobs/view/4380457803/?trk=jobs_biz_prem_srch">Apply</a></td>
-<td>0h</td>
+<td>1h</td>
 </tr>
 <tr>
 <td><strong>Bytedance</strong></td>
@@ -61,7 +61,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Summer 2026 Intern- Software Engineer (Backend)</td>
 <td>Greenwood Village, CO</td>
 <td><a href="https://jobs.empower.com/job/-/-/42743/92394463696?source=Linkedin">Apply</a></td>
-<td>3h</td>
+<td>4h</td>
 </tr>
 <tr>
 <td><strong>Deephealth</strong></td>
@@ -75,21 +75,21 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>US 2026 Software - Machine Learning Intern</td>
 <td>San Jose, CA</td>
 <td><a href="https://tetramem.clearcompany.com/careers/jobs/6e790c7f-df7a-15ae-0497-bb6a6a60756e/apply?source=3404209-JB-1018">Apply</a></td>
-<td>10h</td>
+<td>11h</td>
 </tr>
 <tr>
 <td><strong>Skyryse</strong></td>
 <td>Software Engineering Intern (Summer 2026)</td>
 <td>El Segundo, CA</td>
 <td><a href="https://grnh.se/jh4iaocr1us">Apply</a></td>
-<td>12h</td>
+<td>13h</td>
 </tr>
 <tr>
 <td><strong>Ipipeline</strong></td>
 <td>Software Developer Intern (Summer 2026- Professional Services)</td>
 <td>Exton, PA</td>
 <td><a href="https://careers-ipipeline.icims.com/jobs/1596/software-developer-intern-(summer-2026--professional-services)/job?mode=apply&iis=LinkedIn">Apply</a></td>
-<td>16h</td>
+<td>17h</td>
 </tr>
 <tr>
 <td><strong>Todd</strong></td>
@@ -110,63 +110,63 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Software Engineer Intern Summer 2026</td>
 <td>Chicago, IL</td>
 <td><a href="https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Software-Engineer-Intern-Summer-2026_0014501?source=LinkedIn">Apply</a></td>
-<td>18h</td>
+<td>19h</td>
 </tr>
 <tr>
 <td><strong>Eclinicalworks</strong></td>
 <td>Intern - Software Engineer</td>
 <td>Westborough, MA</td>
 <td><a href="https://recruiting.ultipro.com/ECL1001ECWKS/JobBoard/98b4068c-44c0-41c9-b7ef-58c0807d959f/OpportunityDetail?opportunityId=b187138b-48be-4468-b81d-a86899ea8173&source=LinkedIn">Apply</a></td>
-<td>18h</td>
+<td>19h</td>
 </tr>
 <tr>
 <td><strong>Hp</strong></td>
 <td>Software Engineering Intern, Systems - HP IQ</td>
 <td>San Francisco, CA</td>
 <td><a href="https://HPINC.contacthr.com/151274350?src=Linkedin+Full+Feed">Apply</a></td>
-<td>19h</td>
+<td>20h</td>
 </tr>
 <tr>
 <td><strong>Hp</strong></td>
 <td>Software Engineering Intern, Device Experiences - HP IQ</td>
 <td>San Francisco, CA</td>
 <td><a href="https://HPINC.contacthr.com/151274377?src=Linkedin+Full+Feed">Apply</a></td>
-<td>19h</td>
+<td>20h</td>
 </tr>
 <tr>
 <td><strong>Hp</strong></td>
 <td>Software Engineering Intern, Wireless - HP IQ</td>
 <td>San Francisco, CA</td>
 <td><a href="https://HPINC.contacthr.com/151274395?src=Linkedin+Full+Feed">Apply</a></td>
-<td>19h</td>
+<td>20h</td>
 </tr>
 <tr>
 <td><strong>Hp</strong></td>
 <td>Software Engineering Intern, Product Security - HP IQ</td>
 <td>San Francisco, CA</td>
 <td><a href="https://HPINC.contacthr.com/151274359?src=Linkedin+Full+Feed">Apply</a></td>
-<td>19h</td>
+<td>20h</td>
 </tr>
 <tr>
 <td><strong>Metrostar</strong></td>
 <td>Technology Internship SUMMER 2026 (6404)</td>
 <td>Reston, VA</td>
 <td><a href="https://www.linkedin.com/jobs/view/4378974941/?trk=jobs_biz_prem_srch">Apply</a></td>
-<td>19h</td>
+<td>20h</td>
 </tr>
 <tr>
 <td><strong>Briggs & Stratton</strong></td>
 <td>Intern - Software Engineering Summer 2026</td>
 <td>Milwaukee, WI</td>
 <td><a href="https://careers.basco.com/job/Wauwatosa-Intern-Software-Engineering-Summer-2026-WI-53222/1369980400/">Apply</a></td>
-<td>20h</td>
+<td>21h</td>
 </tr>
 <tr>
 <td><strong>Datologyai</strong></td>
 <td>Software Engineer Intern, Infrastructure (Fall 2026)</td>
 <td>Redwood City, CA</td>
 <td><a href="https://jobs.ashbyhq.com/DatologyAI/17d51801-5d5f-41ad-baec-f1ac5a255d02?src=LinkedIn">Apply</a></td>
-<td>20h</td>
+<td>21h</td>
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
@@ -187,28 +187,28 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Summer 2026 Software Development Intern</td>
 <td>Houston, TX</td>
 <td><a href="https://apply.workable.com/j/AEE7877786">Apply</a></td>
-<td>22h</td>
+<td>23h</td>
 </tr>
 <tr>
 <td><strong>Altom Transport</strong></td>
 <td>Summer 2026 Software Development Intern</td>
 <td>Hammond, IN</td>
 <td><a href="https://apply.workable.com/j/ED091E7B7D">Apply</a></td>
-<td>23h</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong>Altom Transport</strong></td>
 <td>Summer 2026 Software Development Intern</td>
 <td>Chicago, IL</td>
 <td><a href="https://apply.workable.com/j/06D9D41C7A">Apply</a></td>
-<td>23h</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong>Alarm.Com</strong></td>
 <td>Software Engineering Intern</td>
 <td>Tysons Corner, VA</td>
 <td><a href="https://grnh.se/3mbbuutx2us">Apply</a></td>
-<td>23h</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong>Synopsys Inc</strong></td>
@@ -796,21 +796,21 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Core SWE Intern</td>
 <td>San Jose, CA</td>
 <td><a href="https://jobs.ashbyhq.com/Etched/47e6dec8-2ca6-4359-8cff-0b91bcbf48ea?utm_source=LinkedInWrapping">Apply</a></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong>Hyra</strong></td>
 <td>Software Engineer Intern</td>
 <td>Wisconsin, United States</td>
 <td><a href="https://joinhyra.com/jobs/b134f3a4-8ddb-41c6-8671-b11d78bfebd5?src=linkedin">Apply</a></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong>Haystack</strong></td>
 <td>Software Engineer Intern</td>
 <td>Wisconsin, United States</td>
 <td><a href="https://us.haystackapp.io/roles/69893793805716589eb244e7?src=linkedin">Apply</a></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong>Nextracker Inc.</strong></td>
@@ -943,7 +943,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Software Intern</td>
 <td>Milpitas, CA</td>
 <td><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2634450-1">Apply</a></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong>The Boeing Company</strong></td>
@@ -1153,7 +1153,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Software Developer Internship - Summer 2026</td>
 <td>Highlands Ranch, CO</td>
 <td><a href="https://grnh.se/vty9yjrh8us">Apply</a></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong>Cohere</strong></td>
@@ -1475,7 +1475,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Software Intern</td>
 <td>Omaha, Nebraska, United States</td>
 <td><a href="https://livanova.wd5.myworkdayjobs.com/Search/job/US_Houston_100-Cyberonics-Blvd/Software-Intern_JR-14206">Apply</a></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong>Ericsson</strong></td>
@@ -1867,14 +1867,14 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Software Engineer Intern</td>
 <td>Denver, CO</td>
 <td><a href="https://www.linkedin.com/jobs/view/4377871757/?trk=jobs_biz_prem_srch">Apply</a></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong>Solidigm</strong></td>
 <td>AI/Software Engineering Intern</td>
 <td>Rancho Cordova, CA</td>
 <td><a href="https://jobs.smartrecruiters.com/ni/Solidigm/53b2e109-09ca-41f6-b29f-c859974126fd-ai-software-engineering-intern">Apply</a></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong>Hikaflow</strong></td>
@@ -2287,7 +2287,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Junior Developer – Co-op/Internship - Summer 2026 - Weeks</td>
 <td>NYC</td>
 <td><a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/New-York-NY-USA/Junior-Developer--Summer-2026---Co-op-Internship----10-Weeks_R260005666">Apply</a></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong>Marketeq Media Inc.</strong></td>
@@ -3487,6 +3487,13 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>12d</td>
 </tr>
 <tr>
+<td><strong>Avant</strong></td>
+<td>Digital Services Engineering Summer Internship</td>
+<td>Greater Chicago Area</td>
+<td><a href="https://avant.wd503.myworkdayjobs.com/External_Careers/job/Chicago-HQ/Digital-Services-Engineering-Summer-Internship_JR100478?source=LinkedIn">Apply</a></td>
+<td>12d</td>
+</tr>
+<tr>
 <td><strong>Bank of Montreal</strong></td>
 <td>Digital Product Manager – Co-op/Internship - Summer 2026 - 4 Months</td>
 <td>Toronto, ON, Canada</td>
@@ -4674,35 +4681,35 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Strategic Student Program: Software Development Intern (Summer 2026; HAV)</td>
 <td>Waltham, MA</td>
 <td><a href="https://jobs.siemens.com/externaljobs/JobDetail/491995?source=LinkedIn&sourceType=PREMIUM_POST_SITE">Apply</a></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong>Siemens Digital Industries Software</strong></td>
 <td>Strategic Student Program: High Performance Computing (HPC) Software Development Internship (Summer 2026, PLM)</td>
 <td>Troy, MI</td>
 <td><a href="https://jobs.siemens.com/externaljobs/JobDetail/492385?source=LinkedIn&sourceType=PREMIUM_POST_SITE">Apply</a></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong>Siemens Digital Industries Software</strong></td>
 <td>Strategic Student Program: Software Development (Simcenter Inspire) Internship (Summer 2026, PLM)</td>
 <td>Troy, MI</td>
 <td><a href="https://jobs.siemens.com/externaljobs/JobDetail/491641?source=LinkedIn&sourceType=PREMIUM_POST_SITE">Apply</a></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong>Siemens Eda (Siemens Digital Industries Software)</strong></td>
 <td>MECOP Intern (Spring-Summer)</td>
 <td>Wilsonville, OR</td>
 <td><a href="https://jobs.siemens.com/externaljobs/JobDetail/494663?source=LinkedIn&sourceType=PREMIUM_POST_SITE">Apply</a></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong>Siemens Eda (Siemens Digital Industries Software)</strong></td>
 <td>Strategic Student Program: Software Development & Quality Assurance Intern (Summer 2026; EBS)</td>
 <td>Boulder, CO</td>
 <td><a href="https://jobs.siemens.com/externaljobs/JobDetail/493526?source=LinkedIn&sourceType=PREMIUM_POST_SITE">Apply</a></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong>Cadence</strong></td>
@@ -5794,14 +5801,14 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Software Developer - Summer Internship 2026</td>
 <td>Bensenville, IL</td>
 <td><a href="https://apply.workable.com/j/E7B1FF2DD2">Apply</a></td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong>Altom Transport</strong></td>
 <td>Summer 2026 Software Development Intern</td>
 <td>Houston, TX</td>
 <td><a href="https://apply.workable.com/j/F4FA6B60CA">Apply</a></td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
@@ -6564,7 +6571,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>2026 Internship Gen AI Development</td>
 <td>Ridgefield Park, NJ</td>
 <td><a href="https://apply.workable.com/j/D126B1A95E?utm_source=linkedin.com&src=LinkedIn&src=LinkedIn&utm_source=linkedin.com&gh_src=i5qg2y1&utm_source=linkedin.com">Apply</a></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong>Samsung Sds America</strong></td>
@@ -7075,7 +7082,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Engineer Intern</td>
 <td>New York, NY</td>
 <td><a href="https://www.linkedin.com/jobs/view/4372551055/?trk=jobs_biz_prem_srch">Apply</a></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong>Keyrock</strong></td>
@@ -7299,7 +7306,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Flight Software (C++) Internship - Spring 2026</td>
 <td>El Segundo, CA</td>
 <td><a href="https://job-boards.greenhouse.io/vardaspace/jobs/6824554003">Apply</a></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong>GlobalFoundries</strong></td>
@@ -8111,7 +8118,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Summer Internship- Software Engineer, Broomfield CO (4996)</td>
 <td>Broomfield, CO</td>
 <td><a href="https://grnh.se/miqdvk3x3us?gh_src=7458271c3us">Apply</a></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong>Selectquote Insurance Services</strong></td>
@@ -9490,14 +9497,14 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>2026 Summer Regulatory Affairs Internship</td>
 <td>Hoboken, NJ</td>
 <td><a href="https://dsp.prng.co/RdtE22b">Apply</a></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong>Mitre</strong></td>
 <td>Internships in Computer Science or Software Engineering</td>
 <td>McLean, VA</td>
 <td><a href="https://careers.mitre.org/us/en/job/MITRUSR115479EXTERNALENUS/Internships-in-Computer-Science-or-Software-Engineering?utm_source=JB-10062&utm_medium=phenom-feeds">Apply</a></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong>Amentum</strong></td>
@@ -10638,7 +10645,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Summer 2026 Software Development Intern</td>
 <td>Hammond, IN</td>
 <td><a href="https://apply.workable.com/j/C6D028A910">Apply</a></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong>Vertiv</strong></td>
@@ -11751,35 +11758,35 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Application Development Intern</td>
 <td>Raleigh, NC</td>
 <td><a href="https://careers.se.com/jobs/107324?lang=en-us&iis=Job+Board&iisn=linkedin&src=linkedin">Apply</a></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong>Schneider Electric</strong></td>
 <td>Application Development Intern</td>
 <td>Franklin, TN</td>
 <td><a href="https://careers.se.com/jobs/107324?lang=en-us&iis=Job+Board&iisn=linkedin&src=linkedin">Apply</a></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong>Nyc Department Of Environmental Protection (Nyc Dep)</strong></td>
 <td>2026-BIT-002-App Development Graduate Intern</td>
 <td>Queens, NY</td>
 <td><a href="https://cityjobs.nyc.gov/job/2026-bit-002-app-development-graduate-intern-in-queens-jid-40489">Apply</a></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong>Nyc Department Of Environmental Protection (Nyc Dep)</strong></td>
 <td>2026-SUST-002-Green Infrastructure Graduate Intern</td>
 <td>Queens, NY</td>
 <td><a href="https://cityjobs.nyc.gov/job/2026-sust-002-green-infrastructure-graduate-intern-in-queens-jid-40558">Apply</a></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong>Nyc Department Of Environmental Protection (Nyc Dep)</strong></td>
 <td>2026-ACCO-002-Technology Development Unit Grad Intern</td>
 <td>Queens, NY</td>
 <td><a href="https://cityjobs.nyc.gov/job/2026-acco-002-technology-development-unit-grad-intern-in-queens-jid-40472">Apply</a></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong>Aces</strong></td>
@@ -12801,14 +12808,14 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Summer 2026 - IT Customer Experience - Student Internship</td>
 <td>Tampa, FL</td>
 <td><a href="https://jobs.tecoenergy.com/tampa_electric_company/job/Tampa-Summer-2026-IT-Customer-Experience-Student-Internship-Flor-33605/1363055300/">Apply</a></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong>Tampa Electric</strong></td>
 <td>Summer 2026 - IT Development Application & Operational Support - Student Internship</td>
 <td>Lutz, FL</td>
 <td><a href="https://jobs.tecoenergy.com/tampa_electric_company/job/LUTZ-Summer-2026-IT-Development-Application-&-Operational-Support-Student-Internship-Flor-33549/1363052900/">Apply</a></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong>Webull Financial</strong></td>
@@ -13039,28 +13046,28 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Software Engineering - Summer 2027 Internship</td>
 <td>Boston, MA</td>
 <td><a href="https://ad.doubleclick.net/ddm/clk/438405794;254302458;m?https://jobs.us.pwc.com/job/-/-/932/90657128048?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid">Apply</a></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong>Pwc</strong></td>
 <td>Software Engineering - Summer 2027 Internship</td>
 <td>Chicago, IL</td>
 <td><a href="https://ad.doubleclick.net/ddm/clk/438405794;254302458;m?https://jobs.us.pwc.com/job/-/-/932/90657128048?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid">Apply</a></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong>Pwc</strong></td>
 <td>AI Engineering/Data Scientist - Summer 2027 Internship</td>
 <td>New York, NY</td>
 <td><a href="https://ad.doubleclick.net/ddm/clk/438405794;254302458;m?https://jobs.us.pwc.com/job/-/-/932/90657128112?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid">Apply</a></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong>Pwc</strong></td>
 <td>Software Engineering - Summer 2027 Internship</td>
 <td>Atlanta, GA</td>
 <td><a href="https://ad.doubleclick.net/ddm/clk/438405794;254302458;m?https://jobs.us.pwc.com/job/-/-/932/90657128048?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid">Apply</a></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong>Bitcoin Culture Hub</strong></td>
@@ -13494,14 +13501,14 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Software Engineer Intern (Summer 2026)</td>
 <td>Durham, NC</td>
 <td><a href="https://apply.workable.com/j/D539715FA6">Apply</a></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong>City Of New York</strong></td>
 <td>Quality Assurance Analyst Intern</td>
 <td>New York, NY</td>
 <td><a href="https://cityjobs.nyc.gov/job/quality-assurance-analyst-intern-in-nyc-all-boros-jid-40431">Apply</a></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong>Asml</strong></td>
@@ -14467,28 +14474,28 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>SaaS and IoT Software Engineering Intern</td>
 <td>Seattle, WA</td>
 <td><a href="https://grnh.se/nsm2i4xo5us">Apply</a></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong>Impinj</strong></td>
 <td>Machine Learning Operations Intern</td>
 <td>Seattle, WA</td>
 <td><a href="https://grnh.se/y3c4t6nj5us">Apply</a></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong>Impinj</strong></td>
 <td>Platform Engineering Machine Learning Intern</td>
 <td>Seattle, WA</td>
 <td><a href="https://grnh.se/okl3q9oh5us">Apply</a></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong>Scientific Systems</strong></td>
 <td>Summer Software Intern - AI-ML Perception</td>
 <td>Burlington, MA</td>
 <td><a href="https://apply.workable.com/j/58F2A9B49A">Apply</a></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong>Vertiv</strong></td>
@@ -15629,28 +15636,28 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Software Engineer Intern</td>
 <td>Mountain View, CA</td>
 <td><a href="https://gen.wd1.myworkdayjobs.com/careers/job/USA---California-Mountain-View/Software-Engineering-Intern_55157-1">Apply</a></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong>Ithaka</strong></td>
 <td>Intern, Software Engineering</td>
 <td>United States</td>
 <td><a href="https://grnh.se/5yfc5emk5us?sourceId=bc449fc8-da21-45ea-91e2-c8466a5661be&gh_src=82d91d695us&source=LinkedIn">Apply</a></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong>Driscoll'S</strong></td>
 <td>Information Services - Software Engineering Intern - Application Development</td>
 <td>Watsonville, CA</td>
 <td><a href="https://www.driscolls.com/about/Careers/Job?id=R0008652">Apply</a></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong>City Of New York</strong></td>
 <td>Intern - IT Operations</td>
 <td>Manhattan, NY</td>
 <td><a href="https://cityjobs.nyc.gov/job/intern-it-operations-in-manhattan-jid-40294">Apply</a></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong>Legend Biotech</strong></td>
@@ -16770,7 +16777,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Application Developer Intern</td>
 <td>Des Moines, IA</td>
 <td><a href="https://careers-araglegal.icims.com/jobs/2494/application-developer-intern/job?mode=apply&iis=LinkedIn">Apply</a></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong>Talentally</strong></td>
@@ -18002,21 +18009,21 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Application Developer Co Op - MES Team - May-December 2026</td>
 <td>West Fargo, ND</td>
 <td><a href="https://jobs.doosan.com/bobcat/job/West-Fargo-Application-Developer-Co-Op-MES-Team-May-December-2026-MN-58078/1361574800/?utm_campaign=DNBA_LinkedIn">Apply</a></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong>Asb Resources</strong></td>
 <td>Artificial Intelligence Intern</td>
 <td>Iselin, NJ</td>
 <td><a href="https://www.linkedin.com/jobs/view/4368694462/?trk=jobs_biz_prem_srch">Apply</a></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong>Xtrace</strong></td>
 <td>Product Engineering Intern (GTM & Demos & DevRel)</td>
 <td>San Francisco, CA</td>
 <td><a href="https://www.linkedin.com/jobs/view/4368249420/?trk=jobs_biz_prem_srch">Apply</a></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong>Aptiv</strong></td>
@@ -18989,14 +18996,14 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Trackman Baseball Data Operations Employee</td>
 <td>Stamford, CT</td>
 <td><a href="https://careers.trackman.com/o/trackman-baseball-data-operations-employee?source=LinkedIn">Apply</a></td>
-<td>30d</td>
+<td>31d</td>
 </tr>
 <tr>
 <td><strong>District 4 Labs</strong></td>
 <td>Software Engineer Intern</td>
 <td>Chicago, IL</td>
 <td><a href="https://www.linkedin.com/jobs/view/4368018257/?trk=jobs_biz_prem_srch">Apply</a></td>
-<td>30d</td>
+<td>31d</td>
 </tr>
 <tr>
 <td><strong>Starkey Hearing</strong></td>
@@ -21131,7 +21138,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>NVIDIA 2026 Internships: Software Engineering - US</td>
 <td>Santa Clara, CA</td>
 <td><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Software-Engineering-_JR2003206?source=jobboardlinkedin">Apply</a></td>
-<td>34d</td>
+<td>35d</td>
 </tr>
 <tr>
 <td><strong>Nisc</strong></td>
@@ -22902,7 +22909,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Digital Engagement Intern</td>
 <td>Boston, MA, Arlington, VA</td>
 <td><a href="https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Arlington/Digital-Engagement-Intern_JR0000108-1">Apply</a></td>
-<td>36d</td>
+<td>37d</td>
 </tr>
 <tr>
 <td><strong>Criteo</strong></td>
@@ -24190,14 +24197,14 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Data Analytics Intern</td>
 <td>Wayne, NJ</td>
 <td><a href="https://careers-kearnybank.icims.com/jobs/3004/job?mobile=true&needsRedirect=false">Apply</a></td>
-<td>40d</td>
+<td>41d</td>
 </tr>
 <tr>
 <td><strong>Booz Allen</strong></td>
 <td>University – 2026 Summer Games Data Scientist Intern</td>
 <td>11 locations</td>
 <td><a href="https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--2026-Summer-Games-Data-Scientist-Intern_R0225534-1">Apply</a></td>
-<td>40d</td>
+<td>41d</td>
 </tr>
 <tr>
 <td><strong>Union Home Mortgage Corp.</strong></td>
@@ -24680,112 +24687,112 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Conservation GIS Intern</td>
 <td>State College, PA</td>
 <td><a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Conservation-GIS-Intern_REQ_0000075060-1">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>GitHub</strong></td>
 <td>Applied Science Intern 🎓</td>
 <td>Remote in USA</td>
 <td><a href="https://githubinc.jibeapply.com/jobs/4958?lang=en-us&icims=1">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>RESPEC</strong></td>
 <td>Cavern Engineering Intern</td>
 <td>Rapid City, SD</td>
 <td><a href="https://jobs.smartrecruiters.com/RESPECInc/744000104781885">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>Tri-State Generation and Transmission Association</strong></td>
 <td>IT Integration and Analytics Intern</td>
 <td>Westminster, CO</td>
 <td><a href="https://fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/548">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>Graybar</strong></td>
 <td>Intern - Data and Reporting</td>
 <td>Chesterfield, MO</td>
 <td><a href="https://graybar.wd1.myworkdayjobs.com/Careers/job/Corporate-Chesterfield-MO/Summer-2026-Intern---Data-and-Reporting_R260112">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>onsemi</strong></td>
 <td>Intern: Initial AI Application for Physics-Based LLMs in Atomistic Simulation 🎓</td>
 <td>Fairview, OR</td>
 <td><a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503971">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>Autodesk</strong></td>
 <td>Machine Learning Developer 🎓</td>
 <td>Montreal, QC, Canada</td>
 <td><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Quebec---Montreal---10-Rue-Duke/Intern--Machine-Learning-Developer_25WD92312">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>Sonoco</strong></td>
 <td>AI & Analytics Intern</td>
 <td>Florence, SC</td>
 <td><a href="https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/Hartsville-SC-USA/AI---Analytics-Intern_JR-155183">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>Analytic Partners</strong></td>
 <td>Marketing Science Analyst Intern</td>
 <td>Texas, Dallas, TX, United States</td>
 <td><a href="https://jobs.lever.co/analyticpartners/60df9a63-3970-45cc-8b66-14a5384b486b/apply">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>Flagship Pioneering</strong></td>
 <td>AI Research Scientist Intern - Summer 2026 🎓</td>
 <td>Cambridge, MA</td>
 <td><a href="https://boards.greenhouse.io/flagshippioneeringinc/jobs/8373309002">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>Kaiser Permanente</strong></td>
 <td>Claims Data Bachelor Intern</td>
 <td>Oakland, CA</td>
 <td><a href="https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1403919">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>PMG</strong></td>
 <td>Data & Analytics Intern</td>
 <td>Dallas, TX</td>
 <td><a href="https://job-boards.greenhouse.io/pmg/jobs/8372499002">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>Westgate Resorts</strong></td>
 <td>Mortgage Analytics Intern</td>
 <td>Winter Garden, FL</td>
 <td><a href="https://jobs.smartrecruiters.com/WestgateResorts/744000104839895">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>Citadel</strong></td>
 <td>Machine Learning Researcher – PhD Intern - US 🎓</td>
 <td>NYC</td>
 <td><a href="https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>APL Logistics</strong></td>
 <td>Apprentice/Intern - Data Science & BI - Wms</td>
 <td>Scottsdale, AZ</td>
 <td><a href="https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3761">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>Legend Biotech</strong></td>
 <td>Manufacturing Automation Intern</td>
 <td>Somerset, NJ</td>
 <td><a href="https://grnh.se/5z7vg7x05us?source=LinkedIn">Apply</a></td>
-<td>41d</td>
+<td>42d</td>
 </tr>
 <tr>
 <td><strong>Waters Corporation</strong></td>
@@ -26409,7 +26416,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Commercial HVAC Apprentice Service Technician  – Union</td>
 <td>South Farmingdale, NY</td>
 <td><a href="https://jobs.carrier.com/job/-/-/29289/90415470768?source=LinkedIn">Apply</a></td>
-<td>53d</td>
+<td>54d</td>
 </tr>
 <tr>
 <td><strong>Stratify Edge</strong></td>
@@ -26969,7 +26976,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Fashion Product Development Intern</td>
 <td>New York, NY</td>
 <td><a href="https://www.linkedin.com/jobs/view/4359486610/?trk=jobs_biz_prem_srch">Apply</a></td>
-<td>54d</td>
+<td>55d</td>
 </tr>
 <tr>
 <td><strong>Arizona Beverage Co.</strong></td>
@@ -27893,7 +27900,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Summer 2026 Internship: Life Sciences Informatics Intern, Science & Research - Long Island City, NY</td>
 <td>New York, New York, United States</td>
 <td><a href="https://jobs.dsm-firmenich.com/careers/job/562949974667501?hl=en_US&domain=dsm.com">Apply</a></td>
-<td>56d</td>
+<td>57d</td>
 </tr>
 <tr>
 <td><strong>Webull Financial</strong></td>
@@ -29132,7 +29139,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Summer Intern Statistics Dec Sci</td>
 <td>Raritan, NJ</td>
 <td><a href="https://www.careers.jnj.com/en/jobs/R-040656/?source=LinkedIn">Apply</a></td>
-<td>58d</td>
+<td>59d</td>
 </tr>
 <tr>
 <td><strong>Brother Usa</strong></td>
@@ -29685,14 +29692,14 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Internships in Computer Science or Software Engineering</td>
 <td>Shrewsbury, NJ</td>
 <td><a href="https://careers.mitre.org/us/en/job/MITRUSR115479EXTERNALENUS/Internships-in-Computer-Science-or-Software-Engineering?utm_source=JB-10062&utm_medium=phenom-feeds">Apply</a></td>
-<td>62d</td>
+<td>63d</td>
 </tr>
 <tr>
 <td><strong>Mitre</strong></td>
 <td>Internships in Data Science, Math, Statistics or Operations Research</td>
 <td>Shrewsbury, NJ</td>
 <td><a href="https://careers.mitre.org/us/en/job/MITRUSR115478EXTERNALENUS/Internships-in-Data-Science-Math-Statistics-or-Operations-Research?utm_source=JB-10062&utm_medium=phenom-feeds">Apply</a></td>
-<td>62d</td>
+<td>63d</td>
 </tr>
 <tr>
 <td><strong>Factset</strong></td>
@@ -31365,7 +31372,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Spatial Planning Intern</td>
 <td>San Bruno, CA</td>
 <td><a href="https://www.flyzipline.com/careers/open-roles?gh_jid=7561786003">Apply</a></td>
-<td>81d</td>
+<td>82d</td>
 </tr>
 <tr>
 <td><strong>RaceTrac</strong></td>
@@ -31610,14 +31617,14 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Intern – Laboratory Automation Software - BS</td>
 <td>San Bruno, CA</td>
 <td><a href="https://www.calicolabs.com/careers/?gh_jid=8326850002">Apply</a></td>
-<td>88d</td>
+<td>89d</td>
 </tr>
 <tr>
 <td><strong>Simons Foundation</strong></td>
 <td>Scientific Visual Exploration Software Intern</td>
 <td>NYC</td>
 <td><a href="https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/Scientific-Visual-Exploration-Software-Intern_R0001996">Apply</a></td>
-<td>88d</td>
+<td>89d</td>
 </tr>
 <tr>
 <td><strong>General Dynamics Mission Systems</strong></td>
@@ -33220,7 +33227,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>IAM Analyst Intern – Identity & Access Management</td>
 <td>New York, NY</td>
 <td><a href="https://careers.cboe.com/us/en/job/CBJCGMUSR4161EXTERNALENUS/IAM-Analyst-Intern-Identity-Access-Management?utm_source=linkedin&utm_medium=phenom-feeds">Apply</a></td>
-<td>93d</td>
+<td>94d</td>
 </tr>
 <tr>
 <td><strong>Lewoint</strong></td>
@@ -33416,7 +33423,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>2026 Summer Internship, Research Scientist - PhD (New York City)</td>
 <td>New York, NY</td>
 <td><a href="https://www.diversityinresearch.careers/job/1942135/2026-summer-internship-research-scientist-phd-new-york-city-/">Apply</a></td>
-<td>95d</td>
+<td>96d</td>
 </tr>
 <tr>
 <td><strong>Kestrel Yard</strong></td>
@@ -33605,7 +33612,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>ATS Technology Intern Program</td>
 <td>Texas, Illinois</td>
 <td><a href="https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/XMLNAME-2026-ATS-Technology-Internship-Program_R21520">Apply</a></td>
-<td>96d</td>
+<td>97d</td>
 </tr>
 <tr>
 <td><strong>Mongodb</strong></td>
@@ -33808,7 +33815,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Intern, Development</td>
 <td>East Rutherford, NJ</td>
 <td><a href="https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/East-Rutherford-New-Jersey/Intern--Development_R6214?source=LinkedIn">Apply</a></td>
-<td>97d</td>
+<td>98d</td>
 </tr>
 <tr>
 <td><strong>Whippany Actuation Systems</strong></td>
@@ -34333,7 +34340,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Assurance Intern, Information Systems Assurance - Summer 2026 (New York)</td>
 <td>New York, NY</td>
 <td><a href="https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/10766/?utm_medium=jobshare">Apply</a></td>
-<td>99d</td>
+<td>100d</td>
 </tr>
 <tr>
 <td><strong>Unknown</strong></td>
@@ -35698,7 +35705,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Senior Analyst, Product Management</td>
 <td>San Francisco, CA</td>
 <td><a href="https://www.linkedin.com/jobs/view/37502/?trk=jobs_biz_prem_srch">Apply</a></td>
-<td>7329d</td>
+<td>7330d</td>
 </tr>
 <tr>
 <td><strong>The Standard</strong></td>
@@ -35782,7 +35789,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Sr. HW Design Engineer/Prod. Dev. Engineer</td>
 <td>Fremont, CA</td>
 <td><a href="https://www.linkedin.com/jobs/view/13724/?trk=jobs_biz_prem_srch">Apply</a></td>
-<td>7673d</td>
+<td>7674d</td>
 </tr>
 <tr>
 <td><strong>The Human Capital Group, Inc.</strong></td>
@@ -36111,7 +36118,7 @@ Use this repo to share and keep track of Summer 2026 tech internships across sof
 <td>Systems Software/Firmware - MTS</td>
 <td>San Jose, CA</td>
 <td><a href="https://www.linkedin.com/jobs/view/10193/?trk=jobs_biz_prem_srch">Apply</a></td>
-<td>7694d</td>
+<td>7695d</td>
 </tr>
 <tr>
 <td><strong>Tba Recruiter</strong></td>
